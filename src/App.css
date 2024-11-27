@@ -1,0 +1,14 @@
+.josefin-sans {
+  font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.hover-shadow {
+    transition: filter 300ms;
+}
+
+.hover-shadow:hover {
+    filter: drop-shadow(0em 0em 0.5em #000B59);
+}
